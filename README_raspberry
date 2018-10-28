@@ -1,0 +1,1 @@
+This scripts reads a portion of waveform from three raspberry geophones from the Vienna region, plots them, and writes a .png file with each plot.
